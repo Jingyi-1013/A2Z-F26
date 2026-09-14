@@ -102,13 +102,13 @@ Reflect on your process of word counting and consider the following questions (d
 
 ### Add a link to your API / data source here
 
-- Name - [Data Source](url)
+- Bairui Su - [OverFast API](https://overfast-api.tekrop.fr/docs)
 
 ### Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
-- Name - [what is the title of your assignment?](url)
+- Bairui Su - [Tokenization Visualizer](https://observablehq.com/@pearmini/tokenization-visualizer), [Jiggly Wordle](https://wordle.bairui.dev/)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
