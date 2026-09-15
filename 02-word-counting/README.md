@@ -105,12 +105,14 @@ Reflect on your process of word counting and consider the following questions (d
 - Bairui Su - [OverFast API](https://overfast-api.tekrop.fr/docs)
 - Tianchen - [Morse Code API](https://apiverve.com/marketplace/morsecode)
 - Seeha Park - [YouTube Data API ](https://developers.google.com/youtube/v3)
+- Queena Zheng - [The Metropolitan Museum of Art Collection API](https://metmuseum.github.io/?utm_source=chatgpt.com)
 
 ### Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
 
 - Bairui Su - [Tokenization Visualizer](https://observablehq.com/@pearmini/tokenization-visualizer), [Jiggly Wordle](https://wordle.bairui.dev/)
+- Queena Zheng - [Panda in Words](https://app.notion.com/p/Week2_Panda-in-Words-3dcd452073bc80efa586fae7894985b7?source=copy_link)
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
