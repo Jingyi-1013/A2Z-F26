@@ -104,6 +104,7 @@ Reflect on your process of word counting and consider the following questions (d
 
 - Bairui Su - [OverFast API](https://overfast-api.tekrop.fr/docs)
 - Tianchen - [Morse Code API](https://apiverve.com/marketplace/morsecode)
+- Yukuan - [Opensubtitles API](https://opensubtitles.stoplight.io/docs/opensubtitles-api/b1eb44d4c8502-open-subtitles-api)
 
 ### Add your assignment below via Pull Request
 
