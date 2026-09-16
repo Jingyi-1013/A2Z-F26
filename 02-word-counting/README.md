@@ -105,6 +105,7 @@ Reflect on your process of word counting and consider the following questions (d
 - Bairui Su - [OverFast API](https://overfast-api.tekrop.fr/docs)
 - Tianchen - [Morse Code API](https://apiverve.com/marketplace/morsecode)
 - Queena Zheng - [The Metropolitan Museum of Art Collection API](https://metmuseum.github.io/?utm_source=chatgpt.com)
+- Joey Li - [The Pokémon API](https://pokeapi.co/api/v2/pokemon/ditto)
 
 
 ### Add your assignment below via Pull Request
