@@ -107,7 +107,7 @@ Reflect on your process of word counting and consider the following questions (d
 - Seeha Park - [YouTube Data API ](https://developers.google.com/youtube/v3)
 - Queena Zheng - [The Metropolitan Museum of Art Collection API](https://metmuseum.github.io/?utm_source=chatgpt.com)
 - Joey Li - [The Pokémon API](https://pokeapi.co/api/v2/pokemon/ditto)
-
+-Jingyi Mao [Art Institute of Chicago API] https://api.artic.edu/api/v1/openapi.json 
 ### Add your assignment below via Pull Request
 
 _(Please note you are welcome to post under a pseudonym and/or password protect your published assignment. For NYU blogs, privacy options are covered in the [NYU Wordpress Knowledge Base](https://wp.nyu.edu/knowledge/). Finally, if you prefer not to post your assignment at all here, you may email the submission.)_
