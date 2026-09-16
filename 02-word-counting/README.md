@@ -108,6 +108,7 @@ Reflect on your process of word counting and consider the following questions (d
 - Seeha Park - [YouTube Data API ](https://developers.google.com/youtube/v3)
 - Queena Zheng - [The Metropolitan Museum of Art Collection API](https://metmuseum.github.io/?utm_source=chatgpt.com)
 - Joey Li - [The Pokémon API](https://pokeapi.co/api/v2/pokemon/ditto)
+- Richard - [The Kamoji](https://editor.p5js.org/ludwig.peking/sketches/DUi3nw6T8)
 - Amanda Zhang- [AI fashion design generator](https://text-till-klad-design.gracestack.se/api/v1/openapi.json)
 - Amanda Zhang - [Datamuse API](https://www.datamuse.com/api/)
 - Raven - [Movie Database](https://developer.themoviedb.org/docs/getting-started)
