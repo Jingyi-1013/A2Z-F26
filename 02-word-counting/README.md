@@ -115,6 +115,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Bairui Su - [Tokenization Visualizer](https://observablehq.com/@pearmini/tokenization-visualizer), [Jiggly Wordle](https://wordle.bairui.dev/)
 - Seeha Park - [Loop](https://app.notion.com/p/Assignment-2-3dcff69c6b358030a337e5c677e3d431?source=copy_link)
 - Queena Zheng - [Panda in Words](https://app.notion.com/p/Week2_Panda-in-Words-3dcd452073bc80efa586fae7894985b7?source=copy_link)
+- Jingyi Mao [XIYOUJI]https://editor.p5js.org/jm11454/sketches/Trm7BAxjG 
 
 ## Emoji Key for Video Tutorials, Readings, and more
 
