@@ -64,7 +64,7 @@
 ### Local LLM Models
 
 - 🦙 [Ollama: Run LLMs locally](https://ollama.ai/)
-- 📋 [Ollama API Docs](https://github.com/ollama/ollama/blob/main/docs/api.md)
+- 📋 [Ollama API Docs](https://docs.ollama.com/api)
 - 💻 [Ollama with node.js and JavaScript](https://github.com/Programming-from-A-to-Z/Ollama-Examples)
 - 💻 [LMStudio](https://lmstudio.ai/)
 
