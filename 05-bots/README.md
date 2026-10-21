@@ -123,7 +123,7 @@ _(Please note you are welcome to post under a pseudonym and/or password protect 
 - Joey - [NYC Pigeon Hotline](https://tattered-aluminum-b15.notion.site/A2Z-Bot-400fe019f0a580f28023fce99032c48a?source=copy_link)
 - Queena - [PET COURT](https://app.notion.com/p/Week5_PET-COURT-400d452073bc80aeb06af1823d5d3c27?source=copy_link)
 - Amanda - [Topic Cat](https://app.notion.com/p/Week-5-Assignment-3ff3320cd65180d1843fddf038edd3d6?source=copy_link)
-- Sammy - [sixbot][https://www.six-hq.com/itp/semester-3/a2z/05-bots]
+- Sammy - [sixbot](https://www.six-hq.com/itp/semester-3/a2z/05-bots)
 - Bairui SU - [Bluesky Hanzi Bot](https://bsky.app/profile/hanzi8105.bsky.social), also see in [Observable](https://observablehq.com/@pearmini/daily-hanzi-bot)
 - Seeha - [Sijo Simplified](https://app.notion.com/p/Bot-Project_SijoSimplified-3f2ff69c6b3580a79023cfdc11d79b31?source=copy_link)
 - Ran - [emoji guess bot](https://app.notion.com/p/Week-6-3f8c2894908d805fbf62c4d7160797d6)
